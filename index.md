@@ -26,6 +26,4 @@ Programmer: Wladyslaw Pojner
 
 [TikTok](https://www.tiktok.com/@klsgame)
 
-[Telegram](https://t.me/klsgame)
-
-<a href="https://facebook.com"><i class="fa-brands fa-telegram" style="color: #000000;"></i> Facebook</a>
+<a href="https://t.me/klsgame"><i class="fa-brands fa-telegram fa-2xl" style="color: #000000;"></i> Telegram</a>
