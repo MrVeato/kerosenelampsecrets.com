@@ -4,3 +4,5 @@ plugins:
 title: Kerosene Lamp Secrets
 description: A mysterious adventure by Mystery4 Studio where the hero must build kerosene lamps to save the lives of house guests and learn their stories…
 show_downloads: false
+github:
+  is_project_page: false
