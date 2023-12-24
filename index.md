@@ -28,4 +28,4 @@ Programmer: Wladyslaw Pojner
 
 [Telegram](https://t.me/klsgame)
 
-<li><a href="https://facebook.com"><i class="fa-brands fa-telegram" style="color: #000000;"></i> Facebook</a></li>
+<a href="https://facebook.com"><i class="fa-brands fa-telegram" style="color: #000000;"></i> Facebook</a>
