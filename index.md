@@ -2,7 +2,7 @@
 
 #### Mystery4 Studio
 
-`Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)`
+`Game Designer:` [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
 
 `Programmer: Wladyslaw Pojner`
 
