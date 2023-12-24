@@ -16,13 +16,9 @@ Programmer: Wladyslaw Pojner
 
 [mystery4studio@gmail.com](mailto:mystery4studio@gmail.com)
 
-[Facebook](https://facebook.com)
-
-[Twitter](https://twitter.com/klsgame)
-
-[YouTube](https://youtube.com/@kls-game)
-
-[Instagram](https://instagram.com/klsgame)
-
+<a href="https://facebook.com"><i class="fa-brands fa-facebook fa-2xl" style="color: #000000;"></i></a>
+<a href="https://twitter.com/klsgame"><i class="fa-brands fa-twitter fa-2xl" style="color: #000000;"></i></a>
+<a href="https://youtube.com/@kls-game"><i class="fa-brands fa-youtube fa-2xl" style="color: #000000;"></i></a>
+<a href="https://instagram.com/klsgame"><i class="fa-brands fa-instagram fa-2xl" style="color: #000000;"></i></a>
 <a href="https://www.tiktok.com/@klsgame"><i class="fa-brands fa-tiktok fa-2xl" style="color: #000000;"></i></a>
 <a href="https://t.me/klsgame"><i class="fa-brands fa-telegram fa-2xl" style="color: #000000;"></i></a>
