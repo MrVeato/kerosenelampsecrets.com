@@ -2,13 +2,13 @@
 
 #### Mystery4 Studio
 
-`Game Designer:` [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
+Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
 
-`Programmer: Wladyslaw Pojner`
+Programmer: Wladyslaw Pojner
 
-`3D Artist: Anastasiia Deribezova`
+3D Artist: Anastasiia Deribezova
 
-`2D Artist: Marharyta Bobukh`
+2D Artist: Marharyta Bobukh
 
 * * *
 
