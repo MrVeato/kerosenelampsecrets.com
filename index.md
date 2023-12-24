@@ -26,4 +26,4 @@ Programmer: Wladyslaw Pojner
 
 [Telegram](https://t.me/klsgame)
 
-<li><a href="{{ site.baseurl }}/index.html"><i class="fa-brands fa-telegram" style="color: #000000;"></i> Home</a></li>
+<li><a href="https://facebook.com"><i class="fa-brands fa-telegram" style="color: #000000;"></i> Facebook</a></li>
