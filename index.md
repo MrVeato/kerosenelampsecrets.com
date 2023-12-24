@@ -25,3 +25,5 @@ Programmer: Wladyslaw Pojner
 [TikTok](https://www.tiktok.com/@klsgame)
 
 [Telegram](https://t.me/klsgame)
+
+<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
