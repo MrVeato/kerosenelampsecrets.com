@@ -4,11 +4,6 @@
 <img src="images/Kerosene Lamp.png" width="175" height="175">
 </p>
 
-<p style="text-align:center">
-<img style="vertical-align:middle" src="images/Logo.png" width="75" height="75">
-Mystery4 Studio
-</p>
-
 Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
 
 Programmer: Wladyslaw Pojner
@@ -17,6 +12,10 @@ Programmer: Wladyslaw Pojner
 
 2D Artist: Marharyta Bobukh
 * * *
+<p style="text-align:center">
+<img style="vertical-align:middle" src="images/Logo.png" width="75" height="75">
+</p>
+
 <p style="text-align:center; letter-spacing:10px">
 <a href="mailto:someone@yoursite.com"><i class="fa-regular fa-envelope fa-2xl" style="color: #000000;"></i></a>
 <a href="https://www.facebook.com/klsgame"><i class="fa-brands fa-facebook fa-2xl" style="color: #000000;"></i></a>
