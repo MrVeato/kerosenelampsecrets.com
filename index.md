@@ -13,7 +13,7 @@ Programmer: Wladyslaw Pojner
 
 2D Artist: Marharyta Bobukh
 * * *
-<p style="text-align:center; margin : 50">
+<p style="text-align:center; margin:2em">
 <a href="mailto:someone@yoursite.com"><i class="fa-regular fa-envelope fa-2xl" style="color: #000000;"></i></a>
 <a href="https://kerosenelampsecrets.com"><i class="fa-brands fa-facebook fa-2xl" style="color: #000000;"></i></a>
 <a href="https://twitter.com/klsgame"><i class="fa-brands fa-twitter fa-2xl" style="color: #000000;"></i></a>
