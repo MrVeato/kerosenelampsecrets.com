@@ -17,6 +17,7 @@ Programmer: Wladyslaw Pojner
 3D Artist: Anastasiia Deribezova
 
 2D Artist: Marharyta Bobukh
+
 ***
 <p style="text-align:center">
 <img style="vertical-align:middle" src="images/Logo.png" width="75" height="75">
