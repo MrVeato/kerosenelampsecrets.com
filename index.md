@@ -6,6 +6,11 @@
 
 A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories…
 
+- Rescue Others
+- Recharge the Lamp
+- Solve Puzzles
+- Find Objects
+
 <i class="fa-solid fa-code fa-fade fa-xs" style="color: #000000;"></i>
 
 #### Mystery4 Studio
