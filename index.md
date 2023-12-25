@@ -1,3 +1,5 @@
+<link rel=“stylesheet” type=“text/css” href=“styles.css”>.
+
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
 
 <img src="images/Kerosene Lamp.png" width="175" height="175">
