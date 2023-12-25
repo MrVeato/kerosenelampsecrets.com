@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
-
+<div align="center">
 # Kerosene Lamp Secrets
 A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories…
 
@@ -32,3 +32,4 @@ Programmer: Wladyslaw Pojner
 <a href="https://www.tiktok.com/@klsgame"><i class="fa-brands fa-tiktok fa-lg" style="color: #000000;"></i></a>
 <a href="https://t.me/klsgame"><i class="fa-brands fa-telegram fa-lg" style="color: #000000;"></i></a>
 </p>
+</div>
