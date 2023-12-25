@@ -4,6 +4,8 @@
 <img src="images/Kerosene Lamp.png" width="175" height="175">
 </p>
 
+Mystery4 Studio
+
 Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
 
 Programmer: Wladyslaw Pojner
