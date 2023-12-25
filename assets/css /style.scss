@@ -1,5 +1,9 @@
 @import "{{ site.theme }}";
 
+header h1 {
+  color: #000000;
+}
+
 footer {
   display: none;
 }
