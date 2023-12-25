@@ -14,7 +14,7 @@ Programmer: Wladyslaw Pojner
 * * *
 <p style="text-align:center">
 <a href="mailto:someone@yoursite.com"><i class="fa-regular fa-envelope fa-2xl" style="color: #000000;"></i></a>
-<a href="https://facebook.com"><i class="fa-brands fa-facebook fa-2xl" style="color: #000000;"></i></a>
+<a href="https://kerosenelampsecrets.com"><i class="fa-brands fa-facebook fa-2xl" style="color: #000000;"></i></a>
 <a href="https://twitter.com/klsgame"><i class="fa-brands fa-twitter fa-2xl" style="color: #000000;"></i></a>
 <a href="https://youtube.com/@kls-game"><i class="fa-brands fa-youtube fa-2xl" style="color: #000000;"></i></a>
 <a href="https://instagram.com/klsgame"><i class="fa-brands fa-instagram fa-2xl" style="color: #000000;"></i></a>
