@@ -4,9 +4,9 @@
 # Kerosene Lamp Secrets
 A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories…
 
-<img src="images/Kerosene Lamp.png" width="175" height="175">
-
 <i class="fa-solid fa-code fa-fade fa-xs" style="color: #000000;"></i>
+
+<img src="images/Kerosene Lamp.png" width="175" height="175">
 
 Mystery4 Studio
 
