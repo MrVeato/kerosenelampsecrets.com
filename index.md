@@ -2,7 +2,7 @@
 
 <img src="images/Kerosene Lamp.png" width="100" height="100" />
 
-# Mystery4 Studio
+#### Mystery4 Studio
 <img src="images/Logo.png" width="50" height="50" />
 
 Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
