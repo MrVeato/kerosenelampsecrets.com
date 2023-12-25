@@ -1,14 +1,12 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
-
+<img class="circular--square" src="images/Kerosene Lamp.png" width="75" height="75">
 # Kerosene Lamp Secrets
 A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories…
 
 <i class="fa-solid fa-code fa-fade fa-xs" style="color: #000000;"></i>
 
-<img class="circular--square" src="images/Kerosene Lamp.png" width="175" height="175">
-
-<img style="vertical-align:middle" src="images/Back.png" width="75" height="75">
+<img style="vertical-align:middle" src="images/Back.png" width="256" height="256">
 
 #### Mystery4 Studio
 
