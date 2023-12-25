@@ -2,8 +2,7 @@
 
 <img src="Gas lamp.png" width="100" height="100" />
 
-<img src="Logo.png" width="50" height="50" />
-#### Mystery4 Studio
+<img src="Logo.png" width="50" height="50" /> #### Mystery4 Studio
 
 Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
 
