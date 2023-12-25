@@ -13,10 +13,9 @@ Programmer: Wladyslaw Pojner
 2D Artist: Marharyta Bobukh
 
 * * *
-
+<center>
 [mystery4studio@gmail.com](mailto:mystery4studio@gmail.com)
 
-<center>
 <a href="https://facebook.com"><i class="fa-brands fa-facebook fa-2xl" style="color: #000000;"></i></a>
 <a href="https://twitter.com/klsgame"><i class="fa-brands fa-twitter fa-2xl" style="color: #000000;"></i></a>
 <a href="https://youtube.com/@kls-game"><i class="fa-brands fa-youtube fa-2xl" style="color: #000000;"></i></a>
