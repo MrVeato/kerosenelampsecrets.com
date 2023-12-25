@@ -23,12 +23,12 @@ Programmer: Wladyslaw Pojner
 <img style="vertical-align:middle" src="images/Logo.png" width="75" height="75">
 </p>
 
-<p style="text-align:center; letter-spacing:7px">
-<a href="mailto:someone@yoursite.com"><i class="fa-regular fa-envelope fa-2xl" style="color: #000000;"></i></a>
-<a href="https://www.facebook.com/klsgame"><i class="fa-brands fa-facebook fa-2xl" style="color: #000000;"></i></a>
-<a href="https://twitter.com/klsgame"><i class="fa-brands fa-twitter fa-2xl" style="color: #000000;"></i></a>
-<a href="https://youtube.com/@kls-game"><i class="fa-brands fa-youtube fa-2xl" style="color: #000000;"></i></a>
-<a href="https://instagram.com/klsgame"><i class="fa-brands fa-instagram fa-2xl" style="color: #000000;"></i></a>
-<a href="https://www.tiktok.com/@klsgame"><i class="fa-brands fa-tiktok fa-2xl" style="color: #000000;"></i></a>
-<a href="https://t.me/klsgame"><i class="fa-brands fa-telegram fa-2xl" style="color: #000000;"></i></a>
+<p style="text-align:center; letter-spacing:10px">
+<a href="mailto:someone@yoursite.com"><i class="fa-regular fa-envelope fa-lg" style="color: #000000;"></i></a>
+<a href="https://www.facebook.com/klsgame"><i class="fa-brands fa-facebook fa-lg" style="color: #000000;"></i></a>
+<a href="https://twitter.com/klsgame"><i class="fa-brands fa-twitter fa-lg" style="color: #000000;"></i></a>
+<a href="https://youtube.com/@kls-game"><i class="fa-brands fa-youtube fa-lg" style="color: #000000;"></i></a>
+<a href="https://instagram.com/klsgame"><i class="fa-brands fa-instagram fa-lg" style="color: #000000;"></i></a>
+<a href="https://www.tiktok.com/@klsgame"><i class="fa-brands fa-tiktok fa-lg" style="color: #000000;"></i></a>
+<a href="https://t.me/klsgame"><i class="fa-brands fa-telegram fa-lg" style="color: #000000;"></i></a>
 </p>
