@@ -1,6 +1,8 @@
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
 
-<img src="Gas lamp.png" width="50" height="50">
+<img src="Gas lamp.png" width="100" height="100">
+
+<img src="Logo.png" width="50" height="50">
 
 #### Mystery4 Studio
 
