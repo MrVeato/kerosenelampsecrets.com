@@ -6,3 +6,4 @@ description: A mysterious adventure where the hero must build kerosene lamps to 
 show_downloads: false
 github:
   is_project_page: false
+title-heading: false
