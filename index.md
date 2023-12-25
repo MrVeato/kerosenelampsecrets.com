@@ -1,8 +1,9 @@
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
 
-<img src="images/Kerosene Lamp.png" width="100" height="100" />
+<img src="images/Kerosene Lamp.png" width="150" height="150" />
 
-<img src="images/Logo.png" width="50" height="50" /> <p>Mystery4 Studio</p>
+<img src="images/Logo.png" width="50" height="50" />
+<p>Mystery4 Studio</p>
 
 Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
 
