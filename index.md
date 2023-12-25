@@ -1,12 +1,13 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
-<img class="circular--square" src="images/Kerosene Lamp.png" width="75" height="75">
-# Kerosene Lamp Secrets
+<img class="circular--square" style="vertical-align:middle" src="images/Kerosene Lamp.png" width="75" height="75"> <h1>Kerosene Lamp Secrets</h1>
 A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories…
 
 <i class="fa-solid fa-code fa-fade fa-xs" style="color: #000000;"></i>
 
-<img style="vertical-align:middle" src="images/Back.png" width="256" height="256">
+<p style="text-align:center">
+<img  src="images/Back.png" width="512" height="512">
+</p>
 
 #### Mystery4 Studio
 
@@ -20,7 +21,7 @@ Programmer: Wladyslaw Pojner
 
 ***
 <p style="text-align:center">
-<img style="vertical-align:middle" src="images/Logo.png" width="75" height="75">
+<img src="images/Logo.png" width="75" height="75">
 </p>
 
 <p style="text-align:center; letter-spacing:10px">
