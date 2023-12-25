@@ -24,11 +24,11 @@ Programmer: Wladyslaw Pojner
 </p>
 
 <p style="text-align:center; letter-spacing:10px">
-<a href="mailto:someone@yoursite.com"><i class="fa-regular fa-envelope fa-lg" style="color: #000000;"></i></a>
-<a href="https://www.facebook.com/klsgame"><i class="fa-brands fa-facebook fa-lg" style="color: #000000;"></i></a>
-<a href="https://twitter.com/klsgame"><i class="fa-brands fa-twitter fa-lg" style="color: #000000;"></i></a>
-<a href="https://youtube.com/@kls-game"><i class="fa-brands fa-youtube fa-lg" style="color: #000000;"></i></a>
-<a href="https://instagram.com/klsgame"><i class="fa-brands fa-instagram fa-lg" style="color: #000000;"></i></a>
-<a href="https://www.tiktok.com/@klsgame"><i class="fa-brands fa-tiktok fa-lg" style="color: #000000;"></i></a>
-<a href="https://t.me/klsgame"><i class="fa-brands fa-telegram fa-lg" style="color: #000000;"></i></a>
+<a href="mailto:someone@yoursite.com"><i class="fa-regular fa-envelope fa-xl" style="color: #000000;"></i></a>
+<a href="https://www.facebook.com/klsgame"><i class="fa-brands fa-facebook fa-xl" style="color: #000000;"></i></a>
+<a href="https://twitter.com/klsgame"><i class="fa-brands fa-twitter fa-xl" style="color: #000000;"></i></a>
+<a href="https://youtube.com/@kls-game"><i class="fa-brands fa-youtube fa-xl" style="color: #000000;"></i></a>
+<a href="https://instagram.com/klsgame"><i class="fa-brands fa-instagram fa-xl" style="color: #000000;"></i></a>
+<a href="https://www.tiktok.com/@klsgame"><i class="fa-brands fa-tiktok fa-xl" style="color: #000000;"></i></a>
+<a href="https://t.me/klsgame"><i class="fa-brands fa-telegram fa-xl" style="color: #000000;"></i></a>
 </p>
