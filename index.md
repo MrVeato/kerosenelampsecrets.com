@@ -8,6 +8,8 @@ A mysterious adventure where the hero must build kerosene lamps to save the live
 
 <img class="circular--square" src="images/Kerosene Lamp.png" width="175" height="175">
 
+<img style="vertical-align:middle" src="images/Back.png" width="75" height="75">
+
 #### Mystery4 Studio
 
 Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
