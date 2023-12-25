@@ -3,6 +3,7 @@
 <p style="text-align:center">
 <img src="images/Kerosene Lamp.png" width="175" height="175">
 
+
 <img style="vertical-align:middle" src="images/Logo.png" width="75" height="75"> Mystery4 Studio
 </p>
 
