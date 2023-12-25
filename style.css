@@ -4,6 +4,7 @@ header {
 
 body {
   font-size: 16px;
+  text-align: center;
 }
 
 footer {
@@ -12,12 +13,8 @@ footer {
 
 .circular--square { border-radius: 50%; }
 
-body {
-  text-align: center;
-}
-
 section {
-/* width: 500px; */
+width: 500px;
 float: none;
 padding-bottom: 0px;
 }
