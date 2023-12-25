@@ -2,9 +2,9 @@
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
 
 # Kerosene Lamp Secrets
-A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories…
-
 <img src="images/Kerosene Lamp.png" width="175" height="175">
+
+A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories…
 
 <i class="fa-solid fa-code fa-fade fa-2xs" style="color: #000000;"></i>
 
