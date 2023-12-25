@@ -3,7 +3,7 @@
 <img src="images/Kerosene Lamp.png" width="150" height="150" />
 
 <img src="images/Logo.png" width="50" height="50" />
-<p style="text-align:top>Mystery4 Studio</p>
+<b>Mystery4 Studio</b>
 
 Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
 
@@ -13,7 +13,7 @@ Programmer: Wladyslaw Pojner
 
 2D Artist: Marharyta Bobukh
 * * *
-<p style="text-align:center; margin:25px 0">
+<p style="text-align:center; line-height:25px">
 <a href="mailto:someone@yoursite.com"><i class="fa-regular fa-envelope fa-2xl" style="color: #000000;"></i></a>
 <a href="https://kerosenelampsecrets.com"><i class="fa-brands fa-facebook fa-2xl" style="color: #000000;"></i></a>
 <a href="https://twitter.com/klsgame"><i class="fa-brands fa-twitter fa-2xl" style="color: #000000;"></i></a>
