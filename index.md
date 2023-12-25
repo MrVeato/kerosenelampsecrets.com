@@ -6,7 +6,7 @@ A mysterious adventure where the hero must build kerosene lamps to save the live
 
 <img src="images/Kerosene Lamp.png" width="175" height="175">
 
-<i class="fa-light fa-code fa-fade fa-2xs" style="color: #000000;"></i>
+<i class="fa-solid fa-code fa-fade fa-2xs" style="color: #000000;"></i>
 
 Mystery4 Studio
 
