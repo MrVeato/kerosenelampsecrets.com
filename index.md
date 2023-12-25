@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/style.scss" />
+<link rel="stylesheet" href="assets/css/style.css" />
 
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
 
