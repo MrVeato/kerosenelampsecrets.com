@@ -4,7 +4,6 @@
 
 #### Mystery4 Studio
 <img src="images/Logo.png" width="50" height="50" />
-
 Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
 
 Programmer: Wladyslaw Pojner
@@ -13,7 +12,7 @@ Programmer: Wladyslaw Pojner
 
 2D Artist: Marharyta Bobukh
 * * *
-<center>
+<p style="text-align:center">
 <a href="mailto:someone@yoursite.com"><i class="fa-regular fa-envelope fa-2xl" style="color: #000000;"></i></a>
 <a href="https://facebook.com"><i class="fa-brands fa-facebook fa-2xl" style="color: #000000;"></i></a>
 <a href="https://twitter.com/klsgame"><i class="fa-brands fa-twitter fa-2xl" style="color: #000000;"></i></a>
@@ -21,4 +20,4 @@ Programmer: Wladyslaw Pojner
 <a href="https://instagram.com/klsgame"><i class="fa-brands fa-instagram fa-2xl" style="color: #000000;"></i></a>
 <a href="https://www.tiktok.com/@klsgame"><i class="fa-brands fa-tiktok fa-2xl" style="color: #000000;"></i></a>
 <a href="https://t.me/klsgame"><i class="fa-brands fa-telegram fa-2xl" style="color: #000000;"></i></a>
-</center>
+</p>
