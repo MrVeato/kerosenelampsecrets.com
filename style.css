@@ -12,6 +12,10 @@ footer {
 
 .circular--square { border-radius: 50%; }
 
+body {
+  text-align: center;
+}
+
 section {
 /* width: 500px; */
 float: none;
