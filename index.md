@@ -1,6 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 # Kerosene Lamp Secrets
+A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories…
 
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
 
