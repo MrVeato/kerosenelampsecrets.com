@@ -1,5 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title-heading: false
+title: Kerosene Lamp Secrets
+description: A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories…
 show_downloads: false
 github:
   is_project_page: false
