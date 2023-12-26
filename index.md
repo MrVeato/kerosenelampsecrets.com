@@ -1,6 +1,5 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
-<script>section.style.removeProperty('width');</script>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <h2 style="text-align:center"><img class="circular--square" style="vertical-align:middle" src="images/Kerosene Lamp.png" width="50" height="50"> Kerosene Lamp Secrets</h2>
 <img  src="images/Back2.png" width="320" height="180">
