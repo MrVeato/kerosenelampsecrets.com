@@ -4,7 +4,7 @@
 <h2 style="text-align:center"><img class="circular--square" style="vertical-align:middle" src="images/Kerosene Lamp.png" width="50" height="50"> Kerosene Lamp Secrets</h2>
 <img  src="images/Back2.png" width="320" height="180">
 
-A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories…
+A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories.
 
 Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor trapped in a mysterious mansion, use your creation, the kerosene lamp, to navigate pitch-black rooms. This game uniquely blends intense action with tranquil exploration, offering a mix of dialogue-driven narrative, engaging mini-games, and challenging puzzles. Your mission involves illuminating the mansion, uncovering the stories of other guests, battling against the creeping darkness, assembling lamps, unraveling secrets, and saving everyone from an uncertain fate…
 
