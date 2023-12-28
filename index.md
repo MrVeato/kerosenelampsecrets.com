@@ -5,13 +5,13 @@
 
 A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories.
 
-<img style="text-align:center" src="images/Back.png" width="320" height="180">
+<img style="text-align:center;" src="images/Back.png" width="320" height="180">
 
 Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor trapped in a mysterious mansion, use your creation, the kerosene lamp, to navigate pitch-black rooms. This game uniquely blends intense action with tranquil exploration, offering a mix of dialogue-driven narrative, engaging mini-games, and challenging puzzles. Your mission involves illuminating the mansion, uncovering the stories of other guests, battling against the creeping darkness, assembling lamps, unraveling secrets, and saving everyone from an uncertain fate.
 
 <i class="fa-solid fa-code fa-fade fa-xs" style="color: #000000;"></i>
 
-<h4 style="text-align:center">Mystery4 Studio</h2>
+<h4 style="text-align:center">Mystery4 Studio</h4>
 
 Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
 
