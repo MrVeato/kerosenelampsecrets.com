@@ -1,12 +1,12 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<h2 style="text-align:center"><img class="circular--square" style="vertical-align:middle" src="images/Kerosene Lamp.png" width="50" height="50"> Kerosene Lamp Secrets</h2>
+<h2 style="text-align:center"><img class="circular--square" style="vertical-align:middle" src="images/Kerosene Lamp.png" width="55" height="55"> Kerosene Lamp Secrets</h2>
 
 A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories.
 
 <p style="text-align:center">
-<img src="images/Back.png" width="320" height="180">
+<img src="images/Back.png" width="340" height="200">
 </p>
 
 Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor trapped in a mysterious mansion, use your creation, the kerosene lamp, to navigate pitch-black rooms. This game uniquely blends intense action with tranquil exploration, offering a mix of dialogue-driven narrative, engaging mini-games, and challenging puzzles. Your mission involves illuminating the mansion, uncovering the stories of other guests, battling against the creeping darkness, assembling lamps, unraveling secrets, and saving everyone from an uncertain fate.
