@@ -1,3 +1,6 @@
+<meta name="description" content="A mysterious adventure by Mystery4 Studio where the hero must build kerosene lamps to save the lives of house guests and learn their stories…"/>
+<meta name="author" content="Mystery4 Studio, mystery4studio@gmail.com">
+<meta name="reply-to" content="mystery4studio@gmail.com">
 <link rel="stylesheet" type="text/css" href="style.css">
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
