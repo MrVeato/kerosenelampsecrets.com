@@ -1,6 +1,17 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Kerosene Lamp Secrets
-description: A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories…
+subtitle: Game
+description: A mysterious adventure by Mystery4 Studio where the hero must build kerosene lamps to save the lives of house guests and learn their stories…
+name: Mystery4 Studio
+social:
+  type: Organization
+  links:
+    - "https://www.facebook.com/klsgame"
+    - "https://twitter.com/klsgame"
+    - "https://youtube.com/@kls-game"
+    - "https://instagram.com/klsgame"
+    - "https://www.tiktok.com/@klsgame"
+    - "https://t.me/klsgame"
 show_downloads: false
 github:
   is_project_page: false
