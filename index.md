@@ -20,11 +20,11 @@ Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor tra
 
 Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
 
-Programmer: Wladyslaw Pojner
+2D Artist: Marharyta Bobukh
 
 3D Artist: Anastasiia Deribezova
 
-2D Artist: Marharyta Bobukh
+Programmer: Wladyslaw Pojner
 
 ***
 <p style="text-align:center">
