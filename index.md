@@ -20,7 +20,7 @@ Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor tra
 
 <i class="fa-solid fa-code fa-fade fa-xs" style="color: #000000;"></i>
 
-Join our community <a href="https://discord.gg/ZWE9wtjF"><i class="fa-brands fa-discord fa-2xl" style="color: #000000;"></i></a>
+Join our community <a href="https://discord.gg/ZWE9wtjF"><i class="fa-brands fa-discord fa-xl" style="color: #000000;"></i></a>
 
 <h4 style="text-align:center">Mystery4 Studio</h4>
 
