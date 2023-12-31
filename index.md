@@ -6,9 +6,11 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <h2 style="text-align:center"><img class="circular--square" style="vertical-align:middle" src="images/Kerosene Lamp.png" width="55" height="55"> Kerosene Lamp Secrets</h2>
 
-A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories.
-
+<p style="text-align:center">
 Coming Soon on <a href="https://kerosenelampsecrets.com"><i class="fa-brands fa-steam fa-2xl" style="color: #000000;"></i></a>
+</p>
+
+A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories.
 
 <p style="text-align:center">
 <img src="images/Back.png" width="340" height="200">
