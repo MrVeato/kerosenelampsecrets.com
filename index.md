@@ -18,6 +18,8 @@ Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor tra
 
 Coming Soon on <a href="https://kerosenelampsecrets.com"><i class="fa-brands fa-steam fa-2xl" style="color: #000000;"></i></a>
 
+Join our community <a href="https://discord.gg/ZWE9wtjF"><i class="fa-brands fa-discord fa-2xl" style="color: #000000;"></i></i></a>
+
 <h4 style="text-align:center">Mystery4 Studio</h4>
 
 Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
