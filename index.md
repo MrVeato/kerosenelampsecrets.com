@@ -20,8 +20,6 @@ A mysterious adventure where the hero must build kerosene lamps to save the live
 
 Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor trapped in a mysterious mansion, use your creation, the kerosene lamp, to navigate pitch-black rooms. This game uniquely blends intense action with tranquil exploration, offering a mix of dialogue-driven narrative, engaging mini-games, and challenging puzzles. Your mission involves illuminating the mansion, uncovering the stories of other guests, battling against the creeping darkness, assembling lamps, unraveling secrets, and saving everyone from an uncertain fate.
 
-<i class="fa-solid fa-code fa-fade fa-xs" style="color: #000000;"></i>
-
 Join our community <a href="https://discord.gg/ZWE9wtjF"><i class="fa-brands fa-discord fa-xl" style="color: #727bf7;"></i></a>
 
 <h4 style="text-align:center">Mystery4 Studio</h4>
