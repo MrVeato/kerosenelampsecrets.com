@@ -40,7 +40,7 @@ Programmer: Wladyslaw Pojner
 <p style="text-align:center; letter-spacing:10px">
 <a href="mailto:mystery4studio@gmail.com"><i class="fa-regular fa-envelope fa-xl" style="color: #000000;"></i></a>
 <a href="https://www.facebook.com/klsgame"><i class="fa-brands fa-facebook fa-xl" style="color: #000000;"></i></a>
-<a href="https://twitter.com/klsgame"><i class="fa-brands fa-twitter fa-xl" style="color: #000000;"></i></a>
+<a href="https://twitter.com/kls_game"><i class="fa-brands fa-twitter fa-xl" style="color: #000000;"></i></a>
 <a href="https://youtube.com/@kls-game"><i class="fa-brands fa-youtube fa-xl" style="color: #000000;"></i></a>
 <a href="https://instagram.com/klsgame"><i class="fa-brands fa-instagram fa-xl" style="color: #000000;"></i></a>
 <a href="https://www.tiktok.com/@klsgame"><i class="fa-brands fa-tiktok fa-xl" style="color: #000000;"></i></a>
