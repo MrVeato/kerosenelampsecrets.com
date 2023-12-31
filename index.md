@@ -7,7 +7,7 @@
 <h2 style="text-align:center"><img class="circular--square" style="vertical-align:middle" src="images/Kerosene Lamp.png" width="55" height="55"> Kerosene Lamp Secrets</h2>
 
 <p style="text-align:center">
-Coming Soon on <a href="https://kerosenelampsecrets.com"><i class="fa-brands fa-steam fa-2xl" style="color: #000000;"></i></a>
+Coming Soon on <a href="https://kerosenelampsecrets.com"><i class="fa-brands fa-steam fa-xl" style="color: #000000;"></i></a>
 </p>
 
 A mysterious adventure where the hero must build kerosene lamps to save the lives of house guests and learn their stories.
@@ -20,7 +20,7 @@ Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor tra
 
 <i class="fa-solid fa-code fa-fade fa-xs" style="color: #000000;"></i>
 
-Join our community <a href="https://discord.gg/ZWE9wtjF"><i class="fa-brands fa-discord fa-xl" style="color: #000000;"></i></a>
+Join our community <a href="https://discord.gg/ZWE9wtjF"><i class="fa-brands fa-discord fa-xl" style="color: #727bf7;"></i></a>
 
 <h4 style="text-align:center">Mystery4 Studio</h4>
 
