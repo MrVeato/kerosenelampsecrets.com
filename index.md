@@ -5,16 +5,6 @@
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-<link type="text/css" rel="stylesheet" href="css/lightslider.css" />                  
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script src="js/lightslider.js"></script>
-
-<script type="text/javascript">
-  $(document).ready(function() {
-    $("#lightSlider").lightSlider(); 
-  });
-</script>
-
 <h2 style="text-align:center"><img class="circular--square" style="vertical-align:middle" src="images/Kerosene Lamp.png" width="55" height="55"> Kerosene Lamp Secrets</h2>
 
 <p id="steam" style="text-align:center">Coming Soon on <a href="https://kerosenelampsecrets.com"><i class="fa-brands fa-steam fa-2xl" style="color: #000000;"></i></a></p>
@@ -29,20 +19,6 @@ A mysterious adventure where the hero must build kerosene lamps to save the live
 Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor trapped in a mysterious mansion, use your creation, the kerosene lamp, to navigate pitch-black rooms. 
 
 This game uniquely blends intense action with tranquil exploration, offering a mix of dialogue-driven narrative, engaging mini-games, and challenging puzzles. Your mission involves illuminating the mansion, uncovering the stories of other guests, battling against the creeping darkness, assembling lamps, unraveling secrets, and saving everyone from an uncertain fate.
-
-<div class="demo">
-    <ul id="lightSlider">
-        <li data-thumb="https://kerosenelampsecrets.com/images/Back.png">
-            <img src="https://kerosenelampsecrets.com/images/Back.png" />
-        </li>
-        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-2.jpg">
-            <img src="https://sachinchoolur.github.io/lightslider/img/cS-2.jpg" />
-        </li>
-        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-3.jpg">
-            <img src="https://sachinchoolur.github.io/lightslider/img/cS-3.jpg" />
-        </li>
-    </ul>
-</div>
 
 Join our community <a href="https://discord.gg/QSdtVEp3ZE"><i class="fa-brands fa-discord fa-xl" style="color: #727bf7;"></i></a>
 
