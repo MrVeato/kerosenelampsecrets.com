@@ -24,17 +24,6 @@ Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor tra
 
 This game uniquely blends intense action with tranquil exploration, offering a mix of dialogue-driven narrative, engaging mini-games, and challenging puzzles. Your mission involves illuminating the mansion, uncovering the stories of other guests, battling against the creeping darkness, assembling lamps, unraveling secrets, and saving everyone from an uncertain fate.
 
-<ul id="lightSlider">
-  <li>
-      <h3>First Slide</h3>
-      <p>Lorem ipsum Cupidatat quis pariatur anim.</p>
-  </li>
-  <li>
-      <h3>Second Slide</h3>
-      <p>Lorem ipsum Excepteur amet adipisicing fugiat velit nisi.</p>
-  </li>
-</ul>
-
 <div class="demo">
     <ul id="lightSlider">
         <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-1.jpg">
