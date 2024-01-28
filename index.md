@@ -68,13 +68,13 @@ This game uniquely blends intense action with tranquil exploration, offering a m
 <script type="text/javascript">
 $(document).ready(function() {
     $("#lightSlider").lightSlider({
-      gallery: true,
-      item: 1,
-      loop:true,
-      slideMargin: 0,
-      thumbItem: 9
-        });
+        gallery: true,
+        item: 1,
+        loop:true,
+        slideMargin: 0,
+        thumbItem: 9
     });
+});
 </script>
 
 Join our community <a href="https://discord.gg/QSdtVEp3ZE"><i class="fa-brands fa-discord fa-xl" style="color: #727bf7;"></i></a>
