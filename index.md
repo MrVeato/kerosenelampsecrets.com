@@ -35,60 +35,56 @@ This game uniquely blends intense action with tranquil exploration, offering a m
   </li>
 </ul>
 
+<div class="demo">
+    <ul id="lightSlider">
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-1.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-1.jpg" />
+        </li>
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-2.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-2.jpg" />
+        </li>
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-3.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-3.jpg" />
+        </li>
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-4.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-4.jpg" />
+        </li>
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-5.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-5.jpg" />
+        </li>
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-6.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-6.jpg" />
+        </li>
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-7.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-7.jpg" />
+        </li>
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-8.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-8.jpg" />
+        </li>
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-9.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-9.jpg" />
+        </li>
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-10.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-10.jpg" />
+        </li>
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-11.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-12.jpg" />
+        </li>
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-13.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-13.jpg" />
+        </li>
+    </ul>
+</div>
+
 <script type="text/javascript">
 $(document).ready(function() {
     $("#lightSlider").lightSlider({
-        item: 3,
-        autoWidth: false,
-        slideMove: 1, // slidemove will be 1 if loop is true
-        slideMargin: 10,
- 
-        addClass: '',
-        mode: "slide",
-        useCSS: true,
-        cssEasing: 'ease', //'cubic-bezier(0.25, 0, 0.25, 1)',//
-        easing: 'linear', //'for jquery animation',////
- 
-        speed: 400, //ms'
-        auto: false,
-        loop: false,
-        slideEndAnimation: true,
-        pause: 2000,
- 
-        keyPress: false,
-        controls: true,
-        prevHtml: '',
-        nextHtml: '',
- 
-        rtl:false,
-        adaptiveHeight:false,
- 
-        vertical:false,
-        verticalHeight:500,
-        vThumbWidth:100,
- 
-        thumbItem:10,
-        pager: true,
-        gallery: false,
-        galleryMargin: 5,
-        thumbMargin: 5,
-        currentPagerPosition: 'middle',
- 
-        enableTouch:true,
-        enableDrag:true,
-        freeMove:true,
-        swipeThreshold: 40,
- 
-        responsive : [],
- 
-        onBeforeStart: function (el) {},
-        onSliderLoad: function (el) {},
-        onBeforeSlide: function (el) {},
-        onAfterSlide: function (el) {},
-        onBeforeNextSlide: function (el) {},
-        onBeforePrevSlide: function (el) {}
-    });
-});
+      gallery: true,
+      item: 1,
+      loop:true,
+      slideMargin: 0,
+      thumbItem: 9
+  });
 </script>
 
 Join our community <a href="https://discord.gg/QSdtVEp3ZE"><i class="fa-brands fa-discord fa-xl" style="color: #727bf7;"></i></a>
