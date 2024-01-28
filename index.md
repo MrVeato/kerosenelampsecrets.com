@@ -9,6 +9,12 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="js/lightslider.js"></script>
 
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("#lightSlider").lightSlider(); 
+  });
+</script>
+
 <h2 style="text-align:center"><img class="circular--square" style="vertical-align:middle" src="images/Kerosene Lamp.png" width="55" height="55"> Kerosene Lamp Secrets</h2>
 
 <p id="steam" style="text-align:center">Coming Soon on <a href="https://kerosenelampsecrets.com"><i class="fa-brands fa-steam fa-2xl" style="color: #000000;"></i></a></p>
@@ -64,18 +70,6 @@ This game uniquely blends intense action with tranquil exploration, offering a m
         </li>
     </ul>
 </div>
-
-<script type="text/javascript">
-$(document).ready(function() {
-    $("#lightSlider").lightSlider({
-        gallery: true,
-        item: 1,
-        loop:true,
-        slideMargin: 0,
-        thumbItem: 9
-    });
-});
-</script>
 
 Join our community <a href="https://discord.gg/QSdtVEp3ZE"><i class="fa-brands fa-discord fa-xl" style="color: #727bf7;"></i></a>
 
