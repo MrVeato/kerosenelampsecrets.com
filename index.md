@@ -73,7 +73,8 @@ $(document).ready(function() {
       loop:true,
       slideMargin: 0,
       thumbItem: 9
-  });
+        });
+    });
 </script>
 
 Join our community <a href="https://discord.gg/QSdtVEp3ZE"><i class="fa-brands fa-discord fa-xl" style="color: #727bf7;"></i></a>
