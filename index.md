@@ -21,10 +21,8 @@ Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor tra
 
 This game uniquely blends intense action with tranquil exploration, offering a mix of dialogue-driven narrative, engaging mini-games, and challenging puzzles. Your mission involves illuminating the mansion, uncovering the stories of other guests, battling against the creeping darkness, assembling lamps, unraveling secrets, and saving everyone from an uncertain fate.
 
-<!-- Slideshow container -->
 <div class="slideshow-container">
 
-  <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
     <img src="img1.jpg" style="width:100%">
@@ -43,13 +41,11 @@ This game uniquely blends intense action with tranquil exploration, offering a m
     <div class="text">Caption Three</div>
   </div>
 
-  <!-- Next and previous buttons -->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 <br>
 
-<!-- The dots/circles -->
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
