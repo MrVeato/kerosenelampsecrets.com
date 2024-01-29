@@ -20,6 +20,26 @@ Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor tra
 
 This game uniquely blends intense action with tranquil exploration, offering a mix of dialogue-driven narrative, engaging mini-games, and challenging puzzles. Your mission involves illuminating the mansion, uncovering the stories of other guests, battling against the creeping darkness, assembling lamps, unraveling secrets, and saving everyone from an uncertain fate.
 
+<script>
+  new Splide( '#image-slider' ).mount();
+</script>
+
+<div id="image-slider" class="splide">
+  <div class="splide__track">
+		<ul class="splide__list">
+			<li class="splide__slide">
+				<img src="https://kerosenelampsecrets.com/images/Back.png">
+			</li>
+			<li class="splide__slide">
+				<img src="https://kerosenelampsecrets.com/images/Back.png">
+			</li>
+			<li class="splide__slide">
+				<img src="https://kerosenelampsecrets.com/images/Back.png">
+			</li>
+		</ul>
+  </div>
+</div>
+
 Join our community <a href="https://discord.gg/QSdtVEp3ZE"><i class="fa-brands fa-discord fa-xl" style="color: #727bf7;"></i></a>
 
 <h4 style="text-align:center">Mystery4 Studio</h4>
