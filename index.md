@@ -3,6 +3,7 @@
 <meta name="reply-to" content="mystery4studio@gmail.com">
 <link rel="stylesheet" type="text/css" href="style.css">
 <script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
+<script src="slider.js"></script>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 <h2 style="text-align:center"><img class="circular--square" style="vertical-align:middle" src="images/Kerosene Lamp.png" width="55" height="55"> Kerosene Lamp Secrets</h2>
