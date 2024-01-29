@@ -20,6 +20,41 @@ Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor tra
 
 This game uniquely blends intense action with tranquil exploration, offering a mix of dialogue-driven narrative, engaging mini-games, and challenging puzzles. Your mission involves illuminating the mansion, uncovering the stories of other guests, battling against the creeping darkness, assembling lamps, unraveling secrets, and saving everyone from an uncertain fate.
 
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 3</div>
+    <img src="img1.jpg" style="width:100%">
+    <div class="text">Caption Text</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 3</div>
+    <img src="img2.jpg" style="width:100%">
+    <div class="text">Caption Two</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 3</div>
+    <img src="img3.jpg" style="width:100%">
+    <div class="text">Caption Three</div>
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
 Join our community <a href="https://discord.gg/QSdtVEp3ZE"><i class="fa-brands fa-discord fa-xl" style="color: #727bf7;"></i></a>
 
 <h4 style="text-align:center">Mystery4 Studio</h4>
