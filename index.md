@@ -33,8 +33,10 @@ A mysterious adventure where the hero must build kerosene lamps to save the live
     <div class="text">Caption Three</div>
   </div>
 
+  <script>
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </script>
 </div>
 <br>
 
