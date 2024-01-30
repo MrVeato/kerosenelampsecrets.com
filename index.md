@@ -16,21 +16,27 @@ A mysterious adventure where the hero must build kerosene lamps to save the live
 <div class="slideshow-container">
 
   <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    <img src="images/Back.png" style="width:100%">
-    <div class="text">Caption Text</div>
+    <div class="numbertext">1 / 4</div>
+    <img src="images/House scheme.jpg" style="width:100%">
+    <div class="text">House Scheme</div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="images/Back.png" style="width:100%">
-    <div class="text">Caption Two</div>
+    <div class="numbertext">2 / 4</div>
+    <img src="images/Lounge.png" style="width:100%">
+    <div class="text">Lounge</div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="images/Back.png" style="width:100%">
-    <div class="text">Caption Three</div>
+    <div class="numbertext">3 / 4</div>
+    <img src="images/First Bedroom.png" style="width:100%">
+    <div class="text">First Bedroom</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">4 / 4</div>
+    <img src="images/Main Hero Cillian.png" style="width:100%">
+    <div class="text">Main Hero — Cillian</div>
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
