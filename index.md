@@ -35,8 +35,8 @@ A mysterious adventure where the hero must build kerosene lamps to save the live
 
   <div class="mySlides fade">
     <div class="numbertext">4 / 4</div>
-    <img src="images/Main Hero Cillian.png" style="width:100%">
-    <div class="text">Main Hero — Cillian</div>
+    <img src="images/Game Screen 2D Concept.png" style="width:100%">
+    <div class="text">Game Screen 2D Concept</div>
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
