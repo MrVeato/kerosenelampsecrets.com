@@ -49,11 +49,6 @@ A mysterious adventure where the hero must build kerosene lamps to save the live
   <span class="dot" onclick="currentSlide(3)"></span>
   <span class="dot" onclick="currentSlide(4)"></span> 
 </div>
-
-<div id="myModal" class="modal">
-  <span class="close" onclick="closeModal()">&times;</span>
-  <img class="modal-content" id="modalImg">
-</div>
 <br>
 Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor trapped in a mysterious mansion, use your creation, the kerosene lamp, to navigate pitch-black rooms. 
 
