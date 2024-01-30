@@ -33,7 +33,12 @@ padding-bottom: 0px;
 .mySlides {
   display: none;
   width: 100%;
+}
+
+.mySlides img {
+  width: 100%;
   height: 350px;
+  object-fit: cover;
 }
 
 .prev, .next {
