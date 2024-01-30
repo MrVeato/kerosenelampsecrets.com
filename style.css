@@ -32,6 +32,8 @@ padding-bottom: 0px;
 
 .mySlides {
   display: none;
+  width: 100%;
+  height: auto;
 }
 
 .prev, .next {
