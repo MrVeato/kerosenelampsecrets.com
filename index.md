@@ -17,8 +17,8 @@ A mysterious adventure where the hero must build kerosene lamps to save the live
 
   <div class="mySlides fade">
     <div class="numbertext">1 / 4</div>
-    <img src="images/House scheme.jpg" style="width:100%">
-    <div class="text">House Scheme</div>
+    <img src="images/House Scheme.jpg" style="width:100%">
+    <div class="text">House Scheme (2D Concept)</div>
   </div>
 
   <div class="mySlides fade">
@@ -36,7 +36,7 @@ A mysterious adventure where the hero must build kerosene lamps to save the live
   <div class="mySlides fade">
     <div class="numbertext">4 / 4</div>
     <img src="images/Game Screen 2D Concept.png" style="width:100%">
-    <div class="text">Game Screen 2D Concept</div>
+    <div class="text">Game Screen (2D Concept)</div>
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
