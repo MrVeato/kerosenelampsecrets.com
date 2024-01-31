@@ -16,25 +16,30 @@ A mysterious adventure where the hero must build kerosene lamps to save the live
 <div class="slideshow-container">
 
   <div class="mySlides fade">
-    <div class="numbertext">1 / 4</div>
+    <div class="numbertext">1 / 5</div>
+    <img src="images/Lamp.png" style="width:100%">
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 5</div>
     <img src="images/House Scheme.png" style="width:100%">
     <div class="text">Mansion Scheme (2D Concept)</div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">2 / 4</div>
+    <div class="numbertext">3 / 5</div>
     <img src="images/Lounge.png" style="width:100%">
     <div class="text">Lounge</div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">3 / 4</div>
+    <div class="numbertext">4 / 5</div>
     <img src="images/First Bedroom.png" style="width:100%">
     <div class="text">First Bedroom</div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">4 / 4</div>
+    <div class="numbertext">5 / 5</div>
     <img src="images/Game Screen 2D Concept.png" style="width:100%">
     <div class="text">Game Screen (2D Concept)</div>
   </div>
@@ -47,7 +52,8 @@ A mysterious adventure where the hero must build kerosene lamps to save the live
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span>
-  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
 </div>
 <br>
 Embark on a mystical journey in Kerosene Lamp Secrets. As a skilled inventor trapped in a mysterious mansion, use your creation, the kerosene lamp, to navigate pitch-black rooms. 
