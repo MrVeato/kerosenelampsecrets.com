@@ -18,7 +18,7 @@ A mysterious adventure where the hero must build kerosene lamps to save the live
   <div class="mySlides fade">
     <div class="numbertext">1 / 4</div>
     <img src="images/House Scheme.png" style="width:100%">
-    <div class="text">House Scheme (2D Concept)</div>
+    <div class="text">Mansion Scheme (2D Concept)</div>
   </div>
 
   <div class="mySlides fade">
