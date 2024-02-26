@@ -70,7 +70,7 @@ Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
 
 3D Artist: Anastasiia Deribezova
 
-Programmer: Ihor Tsarov, Wladyslaw Pojner
+Programmers: Ihor Tsarov, Wladyslaw Pojner
 
 Composer: Gregory Woods
 
