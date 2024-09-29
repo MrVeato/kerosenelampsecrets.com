@@ -70,7 +70,7 @@ Game Designer: [⋈ Mr. Veato (Denys Chebotaiev)](https://mrveato.com)
 
 3D Artist: Anastasiia Deribezova
 
-Programmer: Renat Maly
+Programmer: Denys Chebotaiev, Renat Maly
 
 Composer: Gregory Woods
 
